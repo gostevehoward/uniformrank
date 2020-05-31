@@ -1,0 +1,16 @@
+Package: uniformrank
+Type: Package
+Title: Sensitivity Analysis for the Uniform General Signed Rank Test
+Version: 0.1.0
+Author: Steven R. Howard and Samuel D. Pimentel
+Maintainer: Steven R. Howard <steve@stevehoward.org>
+Description: Tools to conduct uniform and fixed general signed rank
+    tests, and associated sensitivity analyses for unobserved treated-
+    control confounding. Data is assumed to be in the form of matched
+    treated-control pairs.
+Depends: R (>= 3.5.0)
+Suggests: testthat
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 6.1.1

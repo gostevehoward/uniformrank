@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "qnorm", "rbinom", "uniroot")
+importFrom("utils", "tail")
